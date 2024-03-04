@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "02ec3a420766b4a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "6597552ae1730709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9808a360477730f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0551a0ab04a9e54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f30b70ccff99462c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "对了吗.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd378a595dd5078b",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ebdcf169a10431",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d25be2944417abe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e221b6fe88283abc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "二叉树的下一个",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4808beb9caf7c59d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "32e58bc395da5ded",
+    "type": "split",
+    "children": [
+      {
+        "id": "c707b730de85891c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ed35e6938ad5fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "对了吗.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d371153ad82cd5b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "对了吗.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e11857c48df3acd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4533aa49fb04d88a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "对了吗.md"
+              }
+            }
+          },
+          {
+            "id": "6f2e623dd85649aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "notion-like-tables:Create new loom": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f30b70ccff99462c",
+  "lastOpenFiles": [
+    "note.md",
+    "对了吗.md",
+    "notion/Eric Guo/书籍/列表/图解HTTP/图解_HTTP_彩色版.pdf.pdf",
+    "notion/Eric Guo/书籍/列表/Javascript忍者秘籍/dadada.pdf",
+    "notion/Eric Guo/书籍/列表/Javascript高级程序设计/JavaScript高级程序设计（第4版）.pdf.pdf",
+    "notion/Eric Guo/书籍/列表/Javascript忍者秘籍/javascript%E5%BF%8D%E8%80%85%E7%A7%98%E7%B1%8D%E7%AC%AC2%E7%89%88.pdf",
+    "notion/Eric Guo/书籍/列表/CSS世界/CSS%E4%B8%96%E7%95%8C-%E5%BC%A0%E9%91%AB%E6%97%AD.pdf.pdf",
+    "notion/Eric Guo/Kindle 书籍/Kindle 书籍.md",
+    "notion/Eric Guo/Kindle 书籍/Kindle 书籍/倒转金字塔.md",
+    "notion/Eric Guo/Kindle 书籍/Kindle 书籍/异色短篇集/Untitled.png",
+    "notion/Eric Guo/Kindle 书籍/Kindle 书籍/人类简史/51gZZkcyuL._AC_SY780_.jpg.jpg",
+    "notion/Eric Guo/Kindle 书籍/Kindle 书籍/人体简史/Untitled.png",
+    "未命名 4.md",
+    "dadadaa.md",
+    "kanban.md",
+    "哈哈哈哈.md",
+    "未命名 2.md",
+    "未命名 1.md",
+    "Loom.loom",
+    "Untitled.loom",
+    "未命名 15.md",
+    "未命名",
+    "未命名 10.md",
+    "Untitled 5.loom",
+    "未命名 14.md",
+    "未命名.canvas",
+    "未命名 13.md",
+    "未命名 12.md",
+    "未命名 11.md",
+    "未命名 9.md",
+    "未命名 8.md",
+    "未命名 7.md",
+    "未命名 6.md",
+    "未命名 5.md",
+    "未命名 3.md",
+    "notion/Leetcode/Leetcode题解记录/743 网络延迟时间.md",
+    "notion/Leetcode/Leetcode题解记录/15 三数之和/15.三数之和.gif.gif",
+    "notion/Eric Guo/学习笔记/笔记列表/Web Components.md",
+    "notion/阅读收藏夹/苹果营销页的交互动画，见证CSS的魔力.md",
+    "Untitled 3.loom",
+    "notion/Leetcode/Leetcode题解记录/[补充]二叉树的下一个结点/Untitled 2.png",
+    "notion/Leetcode/Leetcode题解记录/[补充]二叉树的下一个结点/Untitled 1.png",
+    "notion/Leetcode/Leetcode题解记录/[补充]二叉树的下一个结点/Untitled.png",
+    "notion-export/Lanbasara’s Blog d9f1c6dc317749c383cdfcfbcd7f43f6/google-lighthouse.jpg",
+    "notion-export/Lanbasara’s Blog d9f1c6dc317749c383cdfcfbcd7f43f6/Eric-Guo.png",
+    "notion-export/Lanbasara’s Blog d9f1c6dc317749c383cdfcfbcd7f43f6/cf1663dc46154e06be61fd33ebd16740_tplv-k3u1fbpfcp-watermark_%E5%89%AF%E6%9C%AC.png"
+  ]
+}
